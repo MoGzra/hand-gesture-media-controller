@@ -17,7 +17,7 @@ It includes a simple Tkinter GUI and works smoothly with any standard webcam.
 
 
 
-## 🎯 Features
+
 
 ## 🎯 Features
 
